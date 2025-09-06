@@ -40,7 +40,7 @@ a{
 }
 address a{
     font-style: normal;
-    color: #434455;
+    color: red;
 }
 address a:hover {
     color: #404BBF;
