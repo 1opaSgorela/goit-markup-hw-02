@@ -69,7 +69,7 @@ address a:hover {
 .our-goals h3{
     color: #2E2F42;
     font-weight: 500;
-    font-style: 20px;
+    font-size: 20px;
 }
 
 .our-team h2{
@@ -80,7 +80,7 @@ address a:hover {
 .our-team h3 {
     font-weight: 700;
     text-align: center;
-    font-style: 20px;
+    font-size: 20px;
     line-height: 2;
     color: #2E2F42;
 
