@@ -63,7 +63,7 @@ address{
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
-.header-addres li:focus{
+.header-addres-list:focus{
     color: #404bbf;
 }
 .big-title{
@@ -77,7 +77,6 @@ address{
     background-color: #4D5AE5;
     color: #FFFFFF;
     font-weight: 500;
-    border-radius: 4px;
     border: none;
     cursor: pointer;
 }
