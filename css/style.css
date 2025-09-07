@@ -66,30 +66,43 @@ address{
 .header-addres-list:focus{
     color: #404bbf;
 }
-.big-title{
+.big-banner-title{
     text-align: center;
     background-color: #2E2F42;
+    color: #FFFFFF;
 }
-.big-title h1{
- color: #FFFFFF;
+.big-banner-text{
+    color: #FFFFFF;
+    font-size: 56px;
+    line-height: 1.07;
+    letter-spacing: 0.02em;
 }
-.big-title-btn{
+.big-banner-title-btn{
     background-color: #4D5AE5;
     color: #FFFFFF;
     font-weight: 500;
     border: none;
     cursor: pointer;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
 }
-.big-title-btn:hover{
+.big-banner-title-btn:hover{
     background-color: #404BBF;
 }
-.our-goals{
-    line-height: 1.5;
+.big-banner-title-btn:focus{
+    background-color: #404BBF;
 }
-.our-goals h3{
+.our-goals-title{
     color: #2E2F42;
     font-weight: 500;
     font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+}
+.our-goals-paragraf{
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
 }
 .our-team{
     background-color: #F4F4FD;
